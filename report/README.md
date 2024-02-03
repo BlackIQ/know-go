@@ -1,8 +1,8 @@
 # Report
 
-In this project (simple project (very simple project (...))) we run averything we learned until lesson 18 (parsing).
+In this project (simple project (very simple project (...))) we run averything we learned until lesson 19 (files).
 
-Using struc, user input, parsing data.
+Using struc, user input, parsing data, writing files.
 
 ## Details
 
