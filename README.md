@@ -15,18 +15,18 @@ I would be happy to see your examples and stuff about these cheatsheets.
 ## TODO
 
 - [x] Fundamentals
-- [] Interfaces
-- [] HTTP client
-- [] HTTP server
-- [] Variadic functions
-- [] Closures
-- [] Generics
-- [] Channels
-- [] Timeout
-- [] JSON & XML
-- [] Hash
-- [] CLI args
-- [] Signals
+- [ ] Interfaces
+- [ ] HTTP client
+- [ ] HTTP server
+- [ ] Variadic functions
+- [ ] Closures
+- [ ] Generics
+- [ ] Channels
+- [ ] Timeout
+- [ ] JSON & XML
+- [ ] Hash
+- [ ] CLI args
+- [ ] Signals
 
 ---
 
